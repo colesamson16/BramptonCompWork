@@ -1,0 +1,5 @@
+print("Please enter a denary number")
+den = input()
+dena = int(den)
+bina = bin(dena)
+print(bina)
