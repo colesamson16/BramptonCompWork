@@ -5,7 +5,7 @@ teamname = "Zeus"
 playerHits = 0
 totalHits = 0
 averageHits = 0.0
-pointsEarned = 0
+pointsEarned =
 
 
 def getdetails():
