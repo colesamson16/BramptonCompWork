@@ -7,11 +7,11 @@ for pX in range(0,4):
     team.append(str(input(("Team Name: "))))
 team1 = random.choice(team)
 team2 = random.choice(team)
-while t1 == t2:
-    if t1 == t2:
-        t2 = random.choice(team)
+while team1 == team2:
+    if team1 == team2:
+        team2 = random.choice(team)
 
-print(t1)
+print(team1)
 answer1= random.randint(1,10)
 print("please guess the random number")
 guess1 = input()
