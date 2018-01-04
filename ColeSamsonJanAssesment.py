@@ -17,6 +17,7 @@
 #Declare thin: string
 #Declare pan: string
 choices = []
+orderno = []
 def deftop():
     choice = input('Please select a topping[0...9')
     while choice > 9 or choice < 0:
@@ -35,7 +36,7 @@ topamnt = [10,10,10,10,10,10,10,10,10,10]
 for i in range(0,10):
     print(i, topname[i], topamnt[i])
 order = input('Do you want [T]hin or [P]an base?')
-while order is not 'T' or 't' or 'P' or 'p':
+while order != 'T' or 't' or 'P' or 'p':
     print('invalid input please try again')
     order = input('Do you want [T]hin or [P]an base?')
     break
