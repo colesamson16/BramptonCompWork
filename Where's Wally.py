@@ -7,6 +7,8 @@ col = 0
 row = 0
 whereswally = [['M' for col in range(0,5)] for row in range(0,5)]
 
+
+
 wallyx = int(random.randint(0,4))
 print(wallyx)
 wallyy = int(random.randint(0,4))
