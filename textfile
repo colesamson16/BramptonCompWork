@@ -1,0 +1,14 @@
+1.6 & WORLD WIDE WEB (WWW) & A network of online content that is formatted in HTML and accessed via HTTP.
+1.3 & INTERNET & A huge network of computers all connected together. Where all information resides.
+1.5 & NETWORK & A group or system of interconnected items.
+1.3 & ROUTER & "a device that interconnects with two or more computer networks, which then interchange packets with each other."
+1.5 & GATEWAY & A router in a computer network which is a key stopping point on its way to or from other networks.
+1.6 & SERVER & "Software program or the computer on which that program runs, that provides a specific kind of service to client software running on the same computer network"
+1.4 & CLIENT SERVER MODEL & A distributed application structure that partitions tasks/workloads between servers and clients.
+1.9 & VoIP & (Voice-over Internet Protocol) The transmission of voice and multimedia content over internet protocol (IP) networks
+1.8 & PSTN & (Public Switched Telephone Network) The worldâ€™s collection of interconnected voice-oriented public telephone networks.
+1.6 & DEDICATED LINE & "A communications cable or other facility dedicated to a specific application, in contrast with a shared resource (I.E telephone network, internet)"
+1.4 & TRANSMISSION MEDIA & "A type of physical system used to carry a communication signal from one system to another (I.E twisted-pair cable, coaxial cable, fibre optic cable)"
+1.3 & REAL-TIME BIT STREAMING & Data is streamed at a given time and people will â€˜tune inâ€™ to view/listen.
+1.6 & ON-DEMAND BIT STREAMING & "The servers hosting the data wait until they get a request, then they stream the data to the client making the request."
+1.7 & BIT RATES & "How much data can be transmitted at one time. The higher the bit rate, the more data, therefore a smoother and more pleasant viewing experience."
